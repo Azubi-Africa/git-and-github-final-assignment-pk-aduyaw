@@ -20,9 +20,10 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | wavedb_analysis_repo|This goal of this project is to test the understanding of certain keep concepts of MySQL and how to generate insight by querying a database.|https://github.com/pk-aduyaw/wavedb_analysis_repo|
+| 2 |number_guessing_game-repo|The goal of this project is to create a game that allows users to guess a number between 1 and 15.|https://github.com/pk-aduyaw/number_guessing_game-repo|
+| 3 |diabetes-prediction-project-repo|The objective of the dataset is to diagnostically predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset.|https://github.com/pk-aduyaw/diabetes-prediction-project-repo
+|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
